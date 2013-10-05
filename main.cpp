@@ -4,6 +4,14 @@
 
 #include <iostream>
 
+///  \brief some class
+class small_class {
+public:
+    
+private:
+    int i; ///< integer, nice :-)
+};
+
 ///  \brief super useful printing fct
 ///  @param t is the stuff for printing
 ///  
