@@ -1,7 +1,11 @@
-/file mainpage.dox
-/mainpage
-
-Some extensive describtion of this project.
-\li just testin what this does
-\c while assuming courier...
-\ref main is a fct
+/*!
+* \file mainpage.dox
+* \mainpage [AWESOME]
+*
+* Some extensive describtion of this project.
+* \li just testin what this does
+*
+* \c while assuming courier...
+*
+* \ref main is a fct
+*/
